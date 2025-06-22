@@ -74,8 +74,7 @@ This project effectively illustrates the use of machine learning for sentiment a
 
 # output 
 
-![Image](https://github.com/user-attachments/assets/7c6f6333-b792-4ad5-8571-3ff13dcc0c15)
-
+![Image](https://github.com/user-attachments/assets/940dfd6b-ec25-448c-827f-6c666f29c6b5)
 
 
 
